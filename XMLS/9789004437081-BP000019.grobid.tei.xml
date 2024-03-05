@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Plato on Illness in the Phaedo, the Republic, and the Timaeus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gábor</forename><surname>Betegh</surname></persName>
+						</author>
+						<title level="a" type="main">Plato on Illness in the Phaedo, the Republic, and the Timaeus</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="228" to="258"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">47D04C3A6CED9472172D49219C6B5F9F</idno>
+					<idno type="DOI">10.1163/9789004437081_013</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Phaedo -Republic -Timaeus -illness -health -Asclepius -cosmos -world soul -world body -metabolism -body -soul</keywords>
+			</textClass>
+			<abstract>
+				<p>As we learn from Phaedo, Plato could not be present at the important philosophical conversation that took place on Socrates&apos; last day, because he was ill, just as the unnamed fourth guest missed Timaeus&apos; great speech because he was unwell. Starting from these two cases, and then by bringing in Plato&apos;s remarks on illness in the Republic, the paper argues that for Plato illness is bad because it reduces the person&apos;s agency in such a way that she cannot perform her key functions and tasks, and carry on with her long-or short-term projects. How can such disruptions be prevented and cured? In the Timaeus, the cosmos provides an example of an embodied living being who never gets ill, and whose body never disrupts the cognitive activities of its soul. The cosmos is eternally healthy because it constitutes a self-sustaining homeostatic system, in which the motions of the soul also guarantee the incessant well-balanced, metabolism of its body. This is unavailable to human beings, not only because we are not closed systems, but also because the motions of our rational soul do not directly regulate our metabolism. However, studying the cyclical physical processes in the cosmos, and their counterparts in the human organism, we can learn how to emulate, as far as possible, the regulated metabolism of the cosmos, and thereby become our own doctors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

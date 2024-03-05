@@ -1,0 +1,20 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">Gábor</forename><surname>Betegh</surname></persName>
+						</author>
+						<title level="a" type="main">Plato on Illness in the Phaedo, the Republic, and the Timaeus</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="228" to="258"/>
+							<date type="published" when="2020-11-18"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">47D04C3A6CED9472172D49219C6B5F9F</idno>
+					<idno type="DOI">10.1163/9789004437081_013</idno>
+				</biblStruct>
+			
+

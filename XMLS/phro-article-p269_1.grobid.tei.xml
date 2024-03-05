@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">What Is Aristotle’s Metaphysics About?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Brill</publisher>
+				<availability status="unknown"><p>Copyright Brill</p>
+				</availability>
+				<date type="published" when="2023-05-11">2023-05-11</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Lindsay</forename><surname>Judson</surname></persName>
+							<email>lindsay.judson@philosophy.ox.ac.uk</email>
+							<idno type="ORCID">0000-0002-1741-5734</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christ</forename><surname>Church</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">What Is Aristotle’s Metaphysics About?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Phronesis</title>
+						<title level="j" type="abbrev">Phronesis</title>
+						<idno type="ISSN">0031-8868</idno>
+						<idno type="eISSN">1568-5284</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="269" to="292"/>
+							<date type="published" when="2023-05-11" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">CE2F6895148FD9EB457C3D98264633D6</idno>
+					<idno type="DOI">10.1163/15685284-bja10074</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Aristotle -central books -first philosophy -metaphysics -principles -substance</keywords>
+			</textClass>
+			<abstract>
+				<p>This paper argues that the discussion in which Aristotle engages in Metaphysics ΖΗ has the same starting-point as natural science: the principles of changing substances. These inquiries are nonetheless distinct because natural science uses these principles in its detailed investigations into natural substances, whereas ΖΗ reflect on the principles themselves. ΖΗ are an integral part of Aristotle&apos;s inquiry into the principles of all substances, changing and unchanging: they are not merely preliminary to an inquiry into the latter kind. They are also an integral part of Aristotle&apos;s &apos;first philosophy&apos; , alongside theology&apos;s study of the nature and activity of unchanging substances.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

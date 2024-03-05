@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Tyranny in Tragedy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Brill</publisher>
+				<availability status="unknown"><p>Copyright Brill</p>
+				</availability>
+				<date type="published" when="2023-04-25">2023-04-25</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Edmund</forename><surname>Stewart</surname></persName>
+							<email>edmund.stewart@nottingham.ac.uk</email>
+							<idno type="ORCID">0000-0002-6446-8353</idno>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ancient Greek History</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Tyranny in Tragedy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polis: The Journal for Ancient Greek and Roman Political Thought</title>
+						<title level="j" type="abbrev">Polis</title>
+						<idno type="ISSN">0142-257X</idno>
+						<idno type="eISSN">2051-2996</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">40</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="234" to="258"/>
+							<date type="published" when="2023-04-25" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">01D546AD60A89E120872924F5CE44679</idno>
+					<idno type="DOI">10.1163/20512996-12340407</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Aeschylus -Euripides -hybris -Oedipus -Sophocles -tyranny -tragedy</keywords>
+			</textClass>
+			<abstract>
+				<p>The meaning of the word tyrannos in Greek tragedy is much debated. Some have assumed that the word is always a neutral term signifying &apos;ruler&apos; alone. Others argue for competing ideologies regarding tyranny: the result of an evolution in thinking on autocracy. This article challenges both of these assumptions. The negative meaning of tyrannos is always latent in tragedy, even where the word is used objectively and not as a term of abuse. Tyrannos does not simply indicate a powerful individual but implies absolute power, fortune and wealth. This absolute power leads to ruin and tyrannical vice. Tyrannos signifies not a bad or illegitimate ruler, but rather one with the potential to develop such characteristics. It is the tyrant who evolves, whereas Greek conceptions of tyranny remain largely unchanged from at least the time of Aeschylus to that of Aristotle.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,26 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">Cătălin</forename><surname>Enache</surname></persName>
+							<idno type="ORCID">0000-0001-9219-0486</idno>
+						</author>
+						<title level="a" type="main">Did Platon (Politeia 571d) Believe That Every One of Us Is a Repressed Cannibal?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polis: The Journal for Ancient Greek and Roman Political Thought</title>
+						<title level="j" type="abbrev">Polis</title>
+						<idno type="ISSN">0142-257X</idno>
+						<idno type="eISSN">2051-2996</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">40</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="221" to="233"/>
+							<date type="published" when="2023-04-25"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9D4018DA8D66966AA92CF8A2429CFF53</idno>
+					<idno type="DOI">10.1163/20512996-12340406</idno>
+				</biblStruct>
+			
+

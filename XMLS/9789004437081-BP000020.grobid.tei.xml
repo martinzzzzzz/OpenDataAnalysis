@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Responsibility, Causality, and Will in the Timaeus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Chad</forename><surname>Jorgenson</surname></persName>
+						</author>
+						<title level="a" type="main">Responsibility, Causality, and Will in the Timaeus</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="259" to="273"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">2042870155A4CB21946BDA2643AE8E02</idno>
+					<idno type="DOI">10.1163/9789004437081_014</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Timaeus -responsibility -will -action -determinism</keywords>
+			</textClass>
+			<abstract>
+				<p>This paper explores a tension in the account of human responsibility given in the Timaeus. In his description of divine causality in the first section of the dialogue, Timaeus denies that the gods bear any responsibility for the evils that befall human beings, arguing that the responsibility lies rather with them. However, in his account of human badness in the third part of the dialogue, Timaeus appears to contradict himself, claiming that environmental and genetic factors are responsible for an individual becoming bad, rather than their own agency. In fact, a close analysis of Timaeus&apos; language reveals that he is proposing a nuanced theory of causality and responsibility that goes beyond a simple opposition between free will and determinism to give a rich account of the various ways in which we can be held causally responsible or not for our actions.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

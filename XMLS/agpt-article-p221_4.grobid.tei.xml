@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Did Platon (Politeia 571d) Believe That Every One of Us Is a Repressed Cannibal?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Brill</publisher>
+				<availability status="unknown"><p>Copyright Brill</p>
+				</availability>
+				<date type="published" when="2023-04-25">2023-04-25</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Cătălin</forename><surname>Enache</surname></persName>
+							<idno type="ORCID">0000-0001-9219-0486</idno>
+						</author>
+						<title level="a" type="main">Did Platon (Politeia 571d) Believe That Every One of Us Is a Repressed Cannibal?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polis: The Journal for Ancient Greek and Roman Political Thought</title>
+						<title level="j" type="abbrev">Polis</title>
+						<idno type="ISSN">0142-257X</idno>
+						<idno type="eISSN">2051-2996</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">40</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="221" to="233"/>
+							<date type="published" when="2023-04-25" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">9D4018DA8D66966AA92CF8A2429CFF53</idno>
+					<idno type="DOI">10.1163/20512996-12340406</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Platon -Politeia -Republic -cannibalism -tyrant -dreams -unlawful desires</keywords>
+			</textClass>
+			<abstract>
+				<p>At the beginning of Book 9 of the Politeia (571cd), Platon suggests that all people bear in themselves unlawful desires like the desire to have sex with their own mother or with any other human, god, or beast, the desire to murder anyone, or the desire to eat anything. Modern scholars take it for granted that by the desire to eat anything, Platon means cannibalism. This view is based on the fact that Platon discusses unlawful desires in connection with the tyrannical man and that the tyrant is, elsewhere in the Politeia, twice connected with anthropophagy (at 8.565d-566a and 10.619c). This paper challenges this communis opinio and argues that we have no reason to assume that at Politeia 9.571d Platon claims that every one of us has the hidden desire to consume human flesh. Also, the alleged cannibalism of the Platonic tyrant is questioned. A close reading of the passages 8.565d-566a and 10.619c reveals that in the depiction of the tyrant Platon makes use of mythological motifs and literary topoi but never literally claims that the tyrant has cannibalistic desires.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

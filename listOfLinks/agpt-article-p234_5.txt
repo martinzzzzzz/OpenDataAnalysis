@@ -1,0 +1,35 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Edmund</forename><surname>Stewart</surname></persName>
+							<email>edmund.stewart@nottingham.ac.uk</email>
+							<idno type="ORCID">0000-0002-6446-8353</idno>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ancient Greek History</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Tyranny in Tragedy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polis: The Journal for Ancient Greek and Roman Political Thought</title>
+						<title level="j" type="abbrev">Polis</title>
+						<idno type="ISSN">0142-257X</idno>
+						<idno type="eISSN">2051-2996</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">40</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="234" to="258"/>
+							<date type="published" when="2023-04-25"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">01D546AD60A89E120872924F5CE44679</idno>
+					<idno type="DOI">10.1163/20512996-12340407</idno>
+				</biblStruct>
+			
+

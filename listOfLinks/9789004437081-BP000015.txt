@@ -1,0 +1,20 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">George</forename><surname>Karamanolis</surname></persName>
+						</author>
+						<title level="a" type="main">Does Plato Advance a Bundle Theory in the Timaeus?</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="149" to="168"/>
+							<date type="published" when="2020-11-18"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5BC8EEF12443E781DAE0606742D192F5</idno>
+					<idno type="DOI">10.1163/9789004437081_009</idno>
+				</biblStruct>
+			
+

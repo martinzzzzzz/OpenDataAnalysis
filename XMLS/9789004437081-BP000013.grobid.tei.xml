@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Day, the Month, and the Year: What Plato Expects from Astronomy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">István</forename><forename type="middle">M</forename><surname>Bodnár</surname></persName>
+						</author>
+						<title level="a" type="main">The Day, the Month, and the Year: What Plato Expects from Astronomy</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="112" to="130"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">8E8296AB64E188ECD532436808FB4169</idno>
+					<idno type="DOI">10.1163/9789004437081_007</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Timaeus -observational astronomy -educational programme -celestial periods -component motions -intellect -unity of science</keywords>
+			</textClass>
+			<abstract>
+				<p>The Timaeus apparently assigns a different task to astronomy than that in the educational programme set out in the Republic. There is no word about the reorientation required in the Republic that astronomers should ascend to a post-observational study of &quot;the real decorations [of the heavens]-the real movements that these move by true quickness and true slowness in true number and in all true figures in relation to each other, carrying along the things contained in them, which can be grasped by reason and thought, and not by sight.&quot; (Republic 529d) Nevertheless, I argue that-albeit with vastly different theoretical presuppositions about perceptible entities-the Timaeus takes into consideration some of the strictures of the Republic. Similar to the way the reform of astronomy required in the Republic, only such observational astronomy can pass muster in the Timaeus whose major aim is to reduce the regularities of the motions of the different celestial objects to components that are connected to the fundamental motions of the World Soul. This enterprise can be claimed-within the confines of this likely story-to integrate in its fully developed form every important intellectual pursuit there is.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

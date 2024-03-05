@@ -1,0 +1,20 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">István</forename><forename type="middle">M</forename><surname>Bodnár</surname></persName>
+						</author>
+						<title level="a" type="main">The Day, the Month, and the Year: What Plato Expects from Astronomy</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="112" to="130"/>
+							<date type="published" when="2020-11-18"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8E8296AB64E188ECD532436808FB4169</idno>
+					<idno type="DOI">10.1163/9789004437081_007</idno>
+				</biblStruct>
+			
+

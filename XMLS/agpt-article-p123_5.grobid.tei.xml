@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cynicism as Immanent Critique: Diogenes and the Philosophy of Transvaluation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Brill</publisher>
+				<availability status="unknown"><p>Copyright Brill</p>
+				</availability>
+				<date type="published" when="2022-01-06">2022-01-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Darren</forename><surname>Gardner</surname></persName>
+							<email>darrengardner@mac.com</email>
+							<idno type="ORCID">0000-0001-7852-2560</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Philosophy</orgName>
+								<orgName type="institution">Vrije Universiteit</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cynicism as Immanent Critique: Diogenes and the Philosophy of Transvaluation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polis: The Journal for Ancient Greek and Roman Political Thought</title>
+						<title level="j" type="abbrev">Polis</title>
+						<idno type="ISSN">0142-257X</idno>
+						<idno type="eISSN">2051-2996</idno>
+						<imprint>
+							<publisher>Brill</publisher>
+							<biblScope unit="volume">39</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="123" to="148"/>
+							<date type="published" when="2022-01-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BAD46009A49E493605E3E9F4ADCEFC5D</idno>
+					<idno type="DOI">10.1163/20512996-12340358</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Cynicism -Diogenes -critique -ancient philosophy -ancient political theory -social normativity</keywords>
+			</textClass>
+			<abstract>
+				<p>I argue that Diogenes and early Cynicism can be understood in an explicitly social and political context, where Cynic praxis, performative public action, can be seen to make visible oppositions inherent to the polity. In doing so, Diogenes&apos; praxis should be understood as a form of immanent critique, one that demonstrates, for example, that nature and custom (phusis and nomos) are interrelated oppositions in the polis. Cynicism here is understood as a form of immanent critique because Diogenes challenges the social norms of the polis without endorsing external universal standards or predetermined models, but from illuminating dynamics from within the polis and polity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

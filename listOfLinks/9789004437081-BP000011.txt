@@ -1,0 +1,20 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">Luc</forename><surname>Brisson</surname></persName>
+						</author>
+						<title level="a" type="main">How to Make a Soul in the Timaeus</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="70" to="91"/>
+							<date type="published" when="2020-11-18"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">089F99A0E01C720148DB94113EDA33E7</idno>
+					<idno type="DOI">10.1163/9789004437081_005</idno>
+				</biblStruct>
+			
+

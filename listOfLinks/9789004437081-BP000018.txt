@@ -1,0 +1,20 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">Filip</forename><surname>Karfík</surname></persName>
+						</author>
+						<title level="a" type="main">What is Perceptible in Plato’s Timaeus?</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="213" to="227"/>
+							<date type="published" when="2020-11-18"/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F24BCA27489EC19B17FA459E90D95303</idno>
+					<idno type="DOI">10.1163/9789004437081_012</idno>
+				</biblStruct>
+			
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">What is Perceptible in Plato’s Timaeus?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Filip</forename><surname>Karfík</surname></persName>
+						</author>
+						<title level="a" type="main">What is Perceptible in Plato’s Timaeus?</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="213" to="227"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">F24BCA27489EC19B17FA459E90D95303</idno>
+					<idno type="DOI">10.1163/9789004437081_012</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Timaeus -sense-perception -sensation -qualia -Forms</keywords>
+			</textClass>
+			<abstract>
+				<p>Plato&apos;s Timaeus offers an elaborate theory of sense-perception. It is defined in terms of an opinion accompanied by irrational sensation. In humans, sensation is a physiological process occurring in the ensouled body through the agency of the mortal kind of soul whereas opinion is a judgement passed on this process by the rational kind of soul. The sensation itself is a result of the clash between different bodies defined in terms of masses of minuscule regular solids of fire, air, water, and earth, themselves composed of two kinds of triangles. Clashes between bodies cause dissolution and reconfiguration of these solids. These processes can be described mathematically but, to the human soul, they appear as different qualia. Perceptible qualia are not subjectindependent properties. Nevertheless, there must be intelligible Forms of them on which true judgements about them are based.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

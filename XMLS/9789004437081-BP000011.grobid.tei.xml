@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">How to Make a Soul in the Timaeus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Luc</forename><surname>Brisson</surname></persName>
+						</author>
+						<title level="a" type="main">How to Make a Soul in the Timaeus</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="70" to="91"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">089F99A0E01C720148DB94113EDA33E7</idno>
+					<idno type="DOI">10.1163/9789004437081_005</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Timaeus -soul -world -celestial bodies -gods -mankind -plants</keywords>
+			</textClass>
+			<abstract>
+				<p>In the Timaeus, various kinds of soul are mentioned: the soul of the world, of the gods, of mankind (and of animals), and even the soul of plants. All these other kinds have as their principle the soul of the world fashioned by the Demiurge. The immortal soul of the gods-including the world soul and the stars-is fastened to a body which is indestructible, not in itself, but because the Demiurge does not want to undo his work. The human soul is fashioned by the Demiurge out of the same mixture as the world soul and the souls of the gods, but less pure. Subsequently, the Demiurge&apos;s assistants go on to implant into a mortal body this immortal soul, which is the principle of all psychic and physical motions. A human soul is immortal in its totality, even if at death the previous experiences of its spirit (thymos) and of its desire (epithymia) are forgotten; only the excellence of its intellectual life is taken into account in the process of reincarnation.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

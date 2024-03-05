@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Does Plato Advance a Bundle Theory in the Timaeus?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>BRILL</publisher>
+				<availability status="unknown"><p>Copyright BRILL</p>
+				</availability>
+				<date type="published" when="2020-11-18">2020-11-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">George</forename><surname>Karamanolis</surname></persName>
+						</author>
+						<title level="a" type="main">Does Plato Advance a Bundle Theory in the Timaeus?</title>
+					</analytic>
+					<monogr>
+						<title level="m">Plato’s &lt;i&gt;Timaeus&lt;/i&gt;</title>
+						<imprint>
+							<publisher>BRILL</publisher>
+							<biblScope unit="page" from="149" to="168"/>
+							<date type="published" when="2020-11-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">5BC8EEF12443E781DAE0606742D192F5</idno>
+					<idno type="DOI">10.1163/9789004437081_009</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-03-05T14:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plato -Timaeus -Plotinus -receptacle -properties -bundle theory -Formsmaterial objects -essence</keywords>
+			</textClass>
+			<abstract>
+				<p>In this paper my main aim is to argue that Plato in the Timaeus and especially in the section concerning the receptacle advances a theory according to which instances of properties or particular properties contribute to the constitution of material objects, but he does so without compromising his position, found in earlier dialogues, that sensible objects have essences due to immaterial Forms. I will conclude that Plato does not maintain a bundle theory of material objects there and that he is not a bundle theorist. I will try to back up this claim by exploring how Plotinus speaks of the constitution of material objects. Although Plotinus is not directly commenting on the Timaeus, he is inspired, I will suggest, mainly by this dialogue in his explanation of material objects. To the extent that this is the case, Plotinus can be seen as offering a confirmation of my interpretation of the ontology in the Timaeus that is presented in the section concerning the receptacle.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
