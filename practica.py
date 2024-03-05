@@ -17,11 +17,11 @@ from lxml import etree
 
 import xml.etree.ElementTree as ET
 
-client = GrobidClient(config_path="/home/martin/Escritorio/AIUPM/Poetry/Practica/config.json")
+client = GrobidClient(config_path="OpenDataAnalysis/config.json")
 
-pdf_folder = "/home/martin/Escritorio/AIUPM/Poetry/Practica/pdfs"
-xml_folder ="/home/martin/Escritorio/AIUPM/Poetry/Practica/XMLS"
-wordcloud_folder = "/home/martin/Escritorio/AIUPM/Poetry/Practica/WordClouds"
+pdf_folder = "OpenDataAnalysis/pdfs"
+xml_folder ="OpenDataAnalysis/XMLS"
+wordcloud_folder = "OpenDataAnalysis/WordClouds"
 
 num_figures = []
 for pdf_file in os.listdir(pdf_folder):
