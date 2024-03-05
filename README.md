@@ -1,4 +1,8 @@
-[![DOI]
+
+
+[![DOI](https://zenodo.org/badge/767667653.svg)](https://zenodo.org/doi/10.5281/zenodo.10783175)
+
+
 #OpenDataAnalysis
 
 ##Description
