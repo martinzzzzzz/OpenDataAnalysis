@@ -17,11 +17,16 @@ from lxml import etree
 
 import xml.etree.ElementTree as ET
 
-client = GrobidClient(config_path="OpenDataAnalysis/config.json")
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
-pdf_folder = "OpenDataAnalysis/pdfs"
-xml_folder ="OpenDataAnalysis/XMLS"
-wordcloud_folder = "OpenDataAnalysis/WordClouds"
+# Configurar el cliente Grobid
+config_path = os.path.join(script_dir, "config.json")
+client = GrobidClient(config_path=config_path)
+
+# Definir las carpetas usando rutas relativas
+pdf_folder = os.path.join(script_dir,  "pdfs")
+xml_folder = os.path.join(script_dir,  "XMLS")
+wordcloud_folder = os.path.join(script_dir,  "WordClouds")
 
 num_figures = []
 for pdf_file in os.listdir(pdf_folder):
@@ -122,4 +127,6 @@ plt.subplots_adjust(bottom=0.4, left=0.3)
 plt.ylabel("Number of Figures")
 plt.savefig('figuresperArticle/figure.png')
 
+print("WordCloud figures were generated at: " ,wordcloud_folder)
+print("XML Grobid respones were generated at:" ,xml_folder)
 
